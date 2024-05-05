@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  background: #F6EED8;
+  max-width: 400px;
+  padding: 1.2rem;
+  margin: 0 auto;
+}
